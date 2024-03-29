@@ -1,0 +1,30 @@
+
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.product-image {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.product-details {
+    margin-top: 20px;
+}
+
+.product-name {
+    font-size: 18px;
+    margin: 0;
+}
+
+.product-price {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #4CAF50; /* green color for price */
+}
